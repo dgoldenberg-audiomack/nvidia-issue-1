@@ -12,7 +12,7 @@ this message, then an error may have occured that has corrupted an NVIDIA kernel
 module's usage count, for which the simplest remedy is to reboot your computer.
 ```
 
-The included Audiomack-EMR-DLAMI-NVIDIA-issue-March-2021.pdf file describes the whole scenario.
+The included *Audiomack-EMR-DLAMI-NVIDIA-issue-March-2021.pdf* file describes the whole scenario.
 
 The python/sample_driver.py can be used as the Spark driver program to configure the EMR
 cluster with. It's a simple no-op and in fact the cluster setup does not get to invoke it
